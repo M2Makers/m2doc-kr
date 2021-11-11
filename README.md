@@ -1,4 +1,4 @@
-# Odoo documentation
+# M2 documentation
 
 ## Build the documentation locally
 
